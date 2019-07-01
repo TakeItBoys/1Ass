@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.7">
+	<ConfigVersions>
+		<Metadata name="Catalog.СправочникТест" id="8599c99a-b03c-43ab-bd47-4d6a01c8d9fd" configVersion="aaaa09429d9bb949868ab33ff839862d00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="d3a29184-ab92-4462-84cc-4cd56fc099f1" configVersion="9a1b39153f7c40449f024f6dd5454bdc00000000"/>
+		<Metadata name="Document.ХуйСобаки" id="2bf55011-6f78-4ac1-ac84-81316fda2d0c" configVersion="48072e8e3a073e42a55d8f2d002bef4a00000000"/>
+		<Metadata name="Document.ХуйСобаки.Form.ФормаДокумента" id="5cd7624b-03e7-41ff-a71b-76bcf595503f" configVersion="ce4bcff0ddf34e4692f2ed782a0a6c2900000000"/>
+		<Metadata name="Document.ХуйСобаки.Form.ФормаДокумента.Form" id="5cd7624b-03e7-41ff-a71b-76bcf595503f.0" configVersion="6642857a1699e74fb16e28699bbae32b00000000"/>
+		<Metadata name="Document.ХуйСобаки.ObjectModule" id="2bf55011-6f78-4ac1-ac84-81316fda2d0c.0" configVersion="590148900a0e7a44ba32228622e535fb00000000"/>
+		<Metadata name="Language.Русский" id="38ccdf0e-e6c9-46c3-9838-b9802341b294" configVersion="0587c5c7ef08384aa05260fd2977017f00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
